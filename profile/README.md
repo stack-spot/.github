@@ -1,4 +1,8 @@
-<h1 align="center"><img src="profile/stackspot.png" alt="StackSpot"></h1>
+<h1 align="center">
+  <a href="https://stackspot.com" rel="noreferrer" title="StackSpot">
+    <img alt="StackSpot" src="profile/stackspot.png">
+  </a>
+</h1>
 
 <p align="center">
   <a href="https://stackspot.com">
