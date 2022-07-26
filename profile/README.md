@@ -5,26 +5,23 @@
 </h1>
 
 <p align="center">
-  <a href="https://stackspot.com">
-    <img src="https://img.shields.io/website?url=https%3A%2F%2Fstackspot.com" alt="Website">
+  <a href="https://hub.docker.com/u/stackspot" rel="noreferrer" title="Docker Hub">
+    <img alt="Docker Hub" src="https://img.shields.io/badge/Docker%20Hub-stackspot-0db7ed">
   </a>
-  <a href="https://hub.docker.com/u/stackspot">
-    <img src="https://img.shields.io/badge/Docker%20Hub-stackspot-0db7ed" alt="Docker Hub">
+  <a href="https://github.com/topics/stackspot" rel="noreferrer" title="GitHub Topic">
+    <img alt="GitHub Topic" src="https://img.shields.io/badge/GitHub%20Topic-stackspot-333">
   </a>
-  <a href="https://github.com/topics/stackspot">
-    <img src="https://img.shields.io/badge/GitHub%20Topic-stackspot-333" alt="GitHub Topic">
+  <a href="https://search.maven.org/search?q=com.stackspot" rel="noreferrer" title="Maven Central">
+    <img alt="Maven Central" src="https://img.shields.io/badge/Maven%20Central-com.stackspot-cc2336">
   </a>
-  <a href="https://search.maven.org/search?q=com.stackspot">
-    <img src="https://img.shields.io/badge/Maven%20Central-com.stackspot-cc2336" alt="Maven Central">
+  <a href="https://www.npmjs.com/org/stackspot" rel="noreferrer" title="npm">
+    <img alt="npm" src="https://img.shields.io/badge/npm-stackspot-6cc24a">
   </a>
-  <a href="https://www.npmjs.com/org/stackspot">
-    <img src="https://img.shields.io/badge/npm-stackspot-6cc24a" alt="npm">
+  <a href="https://www.nuget.org/profiles/stackspot" rel="noreferrer" title="NuGet">
+    <img alt="NuGet" src="https://img.shields.io/badge/NuGet-stackspot-004880">
   </a>
-  <a href="https://www.nuget.org/profiles/stackspot">
-    <img src="https://img.shields.io/badge/NuGet-stackspot-004880" alt="NuGet">
-  </a>
-  <a href="https://pypi.org/user/stackspot">
-    <img src="https://img.shields.io/badge/PyPI-stackspot-4b8bbe" alt="PyPI">
+  <a href="https://pypi.org/user/stackspot" rel="noreferrer" title="PyPI">
+    <img alt="PyPI" src="https://img.shields.io/badge/PyPI-stackspot-4b8bbe">
   </a>
 </p>
 
