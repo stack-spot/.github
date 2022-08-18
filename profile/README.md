@@ -5,6 +5,18 @@
 </h1>
 
 <p align="center">
+  <a href="https://www.instagram.com/stackspot" rel="noreferrer" title="Instagram">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%40stackspot-c13584">
+  </a>
+  <a href="https://www.linkedin.com/company/stackspot" rel="noreferrer" title="LinkedIn">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%40stackspot-0077b5">
+  </a>
+  <a href="https://twitter.com/stackspot" rel="noreferrer" title="Twitter">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twiter-%40stackspot-1da1f2">
+  </a>
+</p>
+
+<p align="center">
   <a href="https://hub.docker.com/u/stackspot" rel="noreferrer" title="Docker Hub">
     <img alt="Docker Hub" src="https://img.shields.io/badge/Docker%20Hub-stackspot-0db7ed">
   </a>
