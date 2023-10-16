@@ -1,7 +1,7 @@
 ---
 name: Default internal task
 about: Template for internal task creation
-labels: labels: Draft,IDP,1. BACKLOG
+labels: Draft,IDP,1. BACKLOG
 assignees: ''
 
 ---
