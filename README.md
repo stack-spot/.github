@@ -1,3 +1,8 @@
-# StackSpot Default Community Health Files
+# StackSpot Community
 
-For more information: https://help.github.com/en/articles/creating-a-default-community-health-file-for-your-organization
+Community health files for the [StackSpot][github-stackspot] organization.
+
+This repository follows [community health documentation][documentation].
+
+[documentation]: https://help.github.com/en/articles/creating-a-default-community-health-file-for-your-organization
+[github-stackspot]: https://github.com/stack-spot
