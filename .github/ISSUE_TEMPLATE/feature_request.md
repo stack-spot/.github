@@ -1,33 +1,22 @@
 ---
 name: Feature request
-about: Request a new feature
+about: Request a new feature.
 labels: enhancement
 assignees: ''
 
 ---
 
-<!-- Use este modelo ao detalhar uma funcionalidade a ser implementada e forneça o máximo de informações possível. -->
+<!-- Use this template when detailing a feature to be implemented and provide as
+much information as possible. -->
 
-### Épico:
+## Description
 
-<!-- URL para ISSUE do épico relacionado a funcionalidade -->
+<!-- Functionality description. -->
 
-### Descrição:
+## Acceptance criteria
 
-<!-- Descrição da funcionalidade -->
+<!-- Criteria that must be met upon delivery. -->
 
-### Critérios de aceite:
+## How to test?
 
-<!-- Critérios que deverão ser cumpridos na entrega -->
-
-### Essa implementação impacta outros projetos? Se sim, quais? E como?
-
-<!-- Lista dos projetos / times que a implementação vai afetar -->
-
-### Direcionamentos técnicos:
-
-<!-- Detalhes técnicos que podem direcionar o desenvolvimento -->
-
-### Como testar:
-
-<!-- Detalhes de como testar a implementação -->
+<!-- Details on how to test the implementation. -->

@@ -1,35 +1,35 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Create a report to help us improve.
 labels: bug
 assignees: ''
 
 ---
 
-<!-- Use este modelo ao relatar um bug e forneça o máximo de informações possível.
-Não fazer isso pode fazer com que o bug não seja resolvido em tempo hábil. Obrigado!
--->
+<!-- Use this template when reporting a bug and provide as much information as
+possible. Failure to do so may result in the bug not being resolved in a timely
+manner. Thanks! -->
 
-### O que aconteceu:
+## What happened?
 
-<!-- Descrição do problema identificado -->
+<!-- Description of the identified problem. -->
 
-### O que você esperava que acontecesse:
+## What did you expect to happen?
 
-<!-- Descrição do comportamento esperado -->
+<!-- Description of expected behavior. -->
 
-### Como reproduzi-lo (o mínimo e preciso possível):
+## How to reproduce it (as little and accurately as possible)?
 
-- [ ] Passo 1:
-- [ ] Passo 2:
-- [ ] Passo 3:
+- Step 1
+- Step 2
+- Step 3
 
-### Algo mais que precisamos saber?
+## Anything else we need to know?
 
-<!-- Descrição dos impactos eventuais do bug -->
+<!-- Description of possible impacts of the bug. -->
 
-### Ambiente:
+## Environment
 
-- Versão do projeto:
-- Sistema operacional:
-- Outros:
+- Project version:
+- Operational system:
+- Others:
