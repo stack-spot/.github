@@ -50,4 +50,6 @@ reference in technology. It only makes sense to be here if it's to come up with
 ideas out of the box and launch innovative projects." Bruno Pierobon, CEO -
 StackSpot
 
-Interested? Schedule a demo: https://stackspot.com/agende-um-tour
+Interested? [Schedule a demo][contact].
+
+[contact]: https://www.stackspot.com/contact

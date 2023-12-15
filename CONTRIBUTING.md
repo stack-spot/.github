@@ -9,5 +9,5 @@ If you want to suggest something or talk to us, visit our [website][contact-us].
 
 Have a nice day.
 
-[contact-us]: https://stackspot.com/en/contact
+[contact-us]: https://www.stackspot.com/contact
 [security-policy]: https://github.com/stack-spot/.github/blob/main/SECURITY.md
