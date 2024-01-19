@@ -9,5 +9,5 @@ seriously. Thank you for improving the security of StackSpot. :orange_heart:
 
 Instead, follow these guidelines:
 
-- English: Coming soon
+- English: https://www.zupinnovation.com/security
 - Brazilian Portuguese: https://www.zupinnovation.com/seguranca
