@@ -1,22 +1,20 @@
 ---
 name: Feature request
-about: Request a new feature.
-labels: enhancement
+about: Suggest an idea for this project
+title: ''
+labels: feature
 assignees: ''
 
 ---
 
-<!-- Use this template when detailing a feature to be implemented and provide as
-much information as possible. -->
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
-## Description
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
 
-<!-- Functionality description. -->
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
 
-## Acceptance criteria
-
-<!-- Criteria that must be met upon delivery. -->
-
-## How to test?
-
-<!-- Details on how to test the implementation. -->
+**Additional context**
+Add any other context or screenshots about the feature request here.
