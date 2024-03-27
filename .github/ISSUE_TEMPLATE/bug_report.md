@@ -1,35 +1,38 @@
 ---
-name: Bug report
-about: Create a report to help us improve.
+name: Bug Report
+about: Create a report to help us improve
+title: ''
 labels: bug
 assignees: ''
 
 ---
 
-<!-- Use this template when reporting a bug and provide as much information as
-possible. Failure to do so may result in the bug not being resolved in a timely
-manner. Thanks! -->
+**Describe the bug**
+A clear and concise description of what the bug is.
 
-## What happened?
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 
-<!-- Description of the identified problem. -->
+**Expected behavior**
+A clear and concise description of what you expected to happen.
 
-## What did you expect to happen?
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
 
-<!-- Description of expected behavior. -->
+**Desktop (please complete the following information):**
+ - OS: [e.g. iOS]
+ - Browser [e.g. chrome, safari]
+ - Version [e.g. 22]
 
-## How to reproduce it (as little and accurately as possible)?
+**Smartphone (please complete the following information):**
+ - Device: [e.g. iPhone6]
+ - OS: [e.g. iOS8.1]
+ - Browser [e.g. stock browser, safari]
+ - Version [e.g. 22]
 
-- Step 1
-- Step 2
-- Step 3
-
-## Anything else we need to know?
-
-<!-- Description of possible impacts of the bug. -->
-
-## Environment
-
-- Project version:
-- Operational system:
-- Others:
+**Additional context**
+Add any other context about the problem here.
