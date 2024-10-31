@@ -1,0 +1,24 @@
+# Context (required)
+
+Use this section to add some context about the issue, including what we know, what are the customers, anything that might help.
+
+# DOD (required)
+
+- [ ] A statement that should be true in order to mark this issue as done.
+- [ ] A statement that should be true in order to mark this issue as done.
+- [ ] A statement that should be true in order to mark this issue as done.
+- [ ] A statement that should be true in order to mark this issue as done.
+
+# Dependencies (required)
+
+- [ ] An engineering issue link.
+- [ ] An engineering issue link.
+- [ ] An engineering issue link.
+- [ ] An engineering issue link.
+
+# References (optional)
+
+1. Link to an external resource that might be useful.
+2. Link to an external resource that might be useful.
+3. Link to an external resource that might be useful.
+4. Link to an external resource that might be useful.
