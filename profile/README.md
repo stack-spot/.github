@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://stackspot.com" rel="noreferrer" title="StackSpot">
-    <img alt="StackSpot" src="profile/stackspot.png">
+    <img alt="StackSpot" src="![AIlogo](https://github.com/user-attachments/assets/cd0d55f7-d761-4ae6-bb1b-984c80509b13)">
   </a>
 </h1>
 
@@ -37,19 +37,27 @@
   </a>
 </p>
 
-If it's not to change how the world uses technology, we won't even get out of
-bed!
+We are **StackSpot AI**, your intelligent agent platform for the entire software development lifecycle.
 
-We build the best stack platform, so software engineers can focus on what's
-really important: **the product**, **the business**.
+At StackSpot AI, every minute saved on operational tasks is an opportunity to develop ideas, explore new possibilities, and improve the quality of our solutions.
 
-> "More than making software development more modern and agile, here at
-StackSpot we shape the tech culture. We build a community so that devs can step
-up and focus on business features. And, all this, positioning Brazil as a global
-reference in technology. It only makes sense to be here if it's to come up with
-ideas out of the box and launch innovative projects." Bruno Pierobon, CEO -
-StackSpot
+Our platform utilizes hyper-contextualized agents to accelerate processes, allowing teams to concentrate on solving complex challenges and providing continuous value.
 
-Interested? [Schedule a demo][contact].
+Our multi-agent platform allows your team to explore innovative ideas and enhance solution quality, ensuring efficiency and creativity throughout the entire software development lifecycle.
 
-[contact]: https://www.stackspot.com/contact
+[Try StackSpot AI now\!](https://ai.stackspot.com/login?utm_source=github-stk&utm_medium=read-me&utm_campaign=teste-gratuito)
+
+---
+
+Somos a **StackSpot AI** 
+
+Sua plataforma de agentes inteligentes para todo o ciclo de desenvolvimento de software.
+
+Na StackSpot AI, acreditamos que cada minuto economizado em tarefas operacionais se transforma em oportunidade para desenvolver ideias, explorar possibilidades e elevar a qualidade das soluções desenvolvidas.
+
+A StackSpot AI utiliza agentes hiper contextualizados para acelerar processos, permitindo que as equipes foquem em resolver desafios complexos e agregar valor contínuo.
+
+Nossa plataforma multiagentes capacita sua equipe a explorar ideias e elevar a qualidade das soluções, garantindo inovação e eficiência em todo o ciclo de desenvolvimento de software.
+
+[Teste agora a StackSpot AI\!](https://ai.stackspot.com/login?utm_source=github-stk&utm_medium=read-me&utm_campaign=teste-gratuito)
+
