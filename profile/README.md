@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://stackspot.com" rel="noreferrer" title="StackSpot">
-    <img alt="StackSpot" src="![AIlogo](https://github.com/user-attachments/assets/cd0d55f7-d761-4ae6-bb1b-984c80509b13)">
+    <img alt="StackSpot" src="https://github.com/stack-spot/stackspot-home-image/blob/main/stackspot.png">
   </a>
 </h1>
 
