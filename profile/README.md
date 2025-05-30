@@ -45,7 +45,7 @@ Our platform utilizes hyper-contextualized agents to accelerate processes, allow
 
 Our multi-agent platform allows your team to explore innovative ideas and enhance solution quality, ensuring efficiency and creativity throughout the entire software development lifecycle.
 
-[Try StackSpot AI now\!](https://ai.stackspot.com/login?utm_source=github-stk&utm_medium=read-me&utm_campaign=teste-gratuito)
+[Get Started now\!](https://ai.stackspot.com/login?utm_source=github-stk&utm_medium=read-me&utm_campaign=teste-gratuito)
 
 ---
 
@@ -59,5 +59,5 @@ A StackSpot AI utiliza agentes hiper contextualizados para acelerar processos, p
 
 Nossa plataforma multiagentes capacita sua equipe a explorar ideias e elevar a qualidade das soluções, garantindo inovação e eficiência em todo o ciclo de desenvolvimento de software.
 
-[Teste agora a StackSpot AI\!](https://ai.stackspot.com/login?utm_source=github-stk&utm_medium=read-me&utm_campaign=teste-gratuito)
+[Comece agora\!](https://ai.stackspot.com/login?utm_source=github-stk&utm_medium=read-me&utm_campaign=teste-gratuito)
 
